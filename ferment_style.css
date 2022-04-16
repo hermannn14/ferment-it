@@ -1,7 +1,11 @@
 body {
     background-image: url(https://domf5oio6qrcr.cloudfront.net/medialibrary/9460/iStock-898200102.jpg);
+    background-size: 100% 100%;
 }
 
 h1 {
     font-family: 'Whisper', cursive;
+    display: flex;
+    align-items: center;
+    font-size: x-large;
 }
